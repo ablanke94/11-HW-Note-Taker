@@ -29,7 +29,7 @@ npm i
 
 ## Usage
 
-Without heroku, you can run node server.js, then go to localhost:3001. With heroku you can view the app here : 
+Without heroku, you can run node server.js, then go to localhost:3001. With heroku you can view the app here : https://warm-everglades-07252.herokuapp.com/
 
 ## License
 
